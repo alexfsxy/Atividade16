@@ -1,4 +1,4 @@
-Atividade 16
+Atividade 16 - Praticando Testes Unitários
 
 Objetivo: Desenvolver uma API REST simples em Spring Boot com funcionalidades CRUD (Create, Read, Update, Delete) e implementar testes unitários para garantir a confiabilidade e a integridade das operações.
 Descrição da Atividade:
